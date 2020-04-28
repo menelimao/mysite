@@ -1,0 +1,49 @@
+body {
+    background-color: #000000bd;
+}
+
+hr {
+    border: none;
+    border-top: 4px dotted;
+    color: #fff44f;
+    width: 3%;
+}
+
+img {
+    height: 160px;
+    width: 160px;
+}
+
+h1 {
+    font-family: '0Arame';
+    color: #fff44f;
+}
+
+h2 {
+    font-family: '0Arame';
+    color: #fff44f;
+}
+
+h3 {
+    font-family: VCR OSD Mono;
+    color: #ffffff;
+}
+
+h4 {
+    font-family: VCR OSD Mono;
+    color: #ffffff;
+}
+
+p {
+    font-family: VCR OSD Mono;
+    color: #ffffff;
+}
+
+li {
+    font-family: VCR OSD Mono;
+    color: #fff44f;
+}
+
+a {
+    color: #c3c3c3;
+}
